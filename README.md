@@ -8,4 +8,4 @@ Task:
 5. Gallery consists of 3 columns
 6. Columns should be aligned to center in container with 900px width
 
-For now, contains first 5 points as centering images seems to be too high tech for me(
+Basic part is done
